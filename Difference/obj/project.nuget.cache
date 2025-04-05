@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "REfIIc+jat0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amar\\Desktop\\Difference\\Difference\\Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amar\\.nuget\\packages\\microsoft.web.webview2\\1.0.3124.44\\microsoft.web.webview2.1.0.3124.44.nupkg.sha512"
+  ],
+  "logs": []
+}
